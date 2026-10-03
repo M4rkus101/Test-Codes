@@ -20,3 +20,6 @@
     </td>
   </tr>
 </table>
+
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Isometra&pause=1000&color=FFFFFF&vCenter=true&multiline=true&repeat=false&width=435&lines=Test+%E2%84%964+(typing+SVG)" alt="Typing SVG" /></a>
+
