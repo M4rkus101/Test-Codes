@@ -4,9 +4,9 @@
 <kbd>Test №1</kbd>
   
 <details>
-  <summary><b>Test №2 (DON'T CLICK)</b></summary>
+  <summary><b>Test №2 </b></summary>
   <br>
-  <p>I said DON'T CLICK bro, this is a test code, why you clicked???</p>
+  <p>test</p>
 </details>
 
 <table border="0">
